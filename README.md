@@ -1,2 +1,2 @@
 # Masinsko-ucenje
-Predvidjanje rejtinga filmova
+Klaifikacija novinskih vesti
